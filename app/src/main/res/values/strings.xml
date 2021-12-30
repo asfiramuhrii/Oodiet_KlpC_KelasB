@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" align="center">OODIET</string>
+    <string name="account_name">NAMA AKUN</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">**************</string>
+    <string name="forgot_your_login_info">LUPA PASSWORD?</string>
+    <string name="sign_in">LOGIN</string>
+    <string name="remember_my_password">REMEMBER MY PASSWORD</string>
+    <string name="username">Username</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="create_account">BUAT AKUN</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="reset_senha">RESET EMAIL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Botao_proximo" />
+    <string name="Botton_proximo">Próximo</string>
+    <string name="beranda">Hi!Welcome to Oodiet \nHow are you today? \nLets start your day \nwith exercise and healthy food \nBe Active, Be Healty</string>
+    <string name="dieta1" align="center">
+
+    </string>
+
+    <string name="dieta2" align="center">
+    </string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
