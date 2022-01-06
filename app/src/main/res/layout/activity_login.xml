@@ -4,47 +4,71 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity">
+    tools:context=".LoginActivity"
+    android:background="@mipmap/logodiet">
+
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:background="@drawable/login_bg">
+        android:background="@color/trans"
+        android:orientation="vertical">
 
 
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="200dp"
+            android:layout_height="300dp"
             android:layout_gravity="center"
-            android:src="@mipmap/oodiet"
-            />
+            android:src="@mipmap/oodiet" />
 
-        <TextView
+        <EditText
             android:layout_width="match_parent"
-            android:layout_height="70dp"
+            android:layout_height="50dp"
             android:layout_gravity="center"
             android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
             android:layout_marginTop="10dp"
-            android:textColor="@color/hijautua"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/login_edittext_bg"
             android:text="@string/email"
-            android:textSize="30sp"
             android:textAlignment="center"
-            android:background="@drawable/login_edittext_bg"/>
+            android:textColor="@color/hijautua"
+            android:textColorHint="@color/hijautua"
+            android:textSize="20sp" />
 
-        <TextView
+        <EditText
             android:layout_width="match_parent"
-            android:layout_height="70dp"
+            android:layout_height="50dp"
             android:layout_gravity="center"
             android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
             android:layout_marginTop="10dp"
-            android:textColor="@color/hijautua"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/login_edittext_bg"
             android:text="@string/password"
-            android:textSize="30sp"
             android:textAlignment="center"
-            android:background="@drawable/login_edittext_bg"/>
+            android:textColor="@color/hijautua"
+            android:textColorHint="@color/hijautua"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/login_button_bg"
+            android:text="Login"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/createaccount"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Dont’t have an account? Sign Up"
+            android:paddingTop="10dp"
+            android:textSize="20sp"
+            android:textAlignment="center"/>
 
 
 

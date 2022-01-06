@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.oodiet">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,10 +12,54 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Oodiet">
         <activity
-            android:name=".LoginActivity"
+            android:name=".LogoutActivity2"
             android:exported="false" />
         <activity
+            android:name=".ui.Artikel3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Artikel2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Artikel1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiworkout4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiworkout3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiworkout2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiresipe5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiresipe4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiresipe3Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiresipe2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.Isiworkout1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".IsiresipeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CreateActivity"
+            android:exported="false"
+            android:label="@string/title_activity_create"
+            android:theme="@style/Theme.Oodiet.NoActionBar" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
             android:exported="true"
             android:label="@string/app_name">
             <intent-filter>

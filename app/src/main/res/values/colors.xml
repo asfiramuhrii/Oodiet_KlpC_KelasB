@@ -10,9 +10,10 @@
     <color name="yellow">#FFEB3B</color>
     <color name="orange">#FF9800</color>
     <color name="red">#F44336</color>
-    <color name="mint">#E5FFE3</color>
+    <color name="mint">#F1FFF0</color>
     <color name="hijautua">#57813E</color>
     <color name="grey">#9C9C9C</color>
     <color name="hijau2">#5A8F3B</color>
     <color name="hijau3">#B3E3B3</color>
+    <color name="trans">#B3F1FFF0 </color>
 </resources>

@@ -30,8 +30,204 @@
     </string>
     <string name="title_activity_menu_utama">MenuUtama</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_dashboard">Workout</string>
+    <string name="title_notifications">Recipe</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="resep1">
+        <br>BAHAN BAHAN UNTUK SALMON SALAD WITH EGG FOR A HEALTHY BREAKFAST\n</br>
+        <br>1. Ambil fillet Salmon\n</br>
+        <br>2. Ambil Sayuran salad organik (sy pakai 2 jenis sayuran)\n</br>
+        <br>3. Ambil Tomat cherry\n</br>
+        <br>4. Perlu Telur\n</br>
+        <br>5. Ambil Garlic powder\n</br>
+        <br>6. Perlu Lemon\n</br>
+        <br>7. Perlu Garam\n</br>
+        <br>8. Ambil Lada\n</br>
+        <br>9. Siapkan Margarin\n</br>
+        <br>10. Perlu Kewpie thousand island\n</br>
+        <br>11. Perlu iris Jeruk sunkis\n</br>
+        <br>12. Perlu Nori (rumout laut) bubuk\n</br>
+        <br>\n</br>
+        <br>INSTRUKSI MEMBUAT SALMON SALAD WITH EGG FOR A HEALTHY BREAKFAST\n</br>
+        <br>1. Cuci bersih sayuran organic, siram air es, tiriskan.\n</br>
+        <br>2. Cuci bersih tomat cherry belah dua (kalau agak besar)\n</br>
+        <br>3. Rebus telur lalu belah dua.\n</br>
+        <br>4. Perciki salmon dengan jeruk lemon, beri garam, lada secukupnya, tambahkan margarin, aduk rata, marinasi kurleb 15 menit.\n</br>
+        <br>5. Panggang pd teflon salmon yg telah dimarinasi tadi (tanpa minyak/margarin) hingga tingkat kematangan yg disukai.\n</br>
+        <br>6. Tata pada wadah bekal, sayuran organik, potongan tomat cherry, tuang kewpie thousand islang atau kewpie wijen secukupnya, lalu tata salmon dan telur diatasnya.\n</br>
+        <br>7. Taburi nori bubuk diatas telur utk tambahan rasa gurih jika suka.\n</br>
+        <br>8. Selipkan irisan jeruk sunkis utk penutup sarapan penghilang aroma amis pd mulut sehabis makan salmon</br>
+    </string>
+
+    <string name="resep2">
+        <br>Bahan\n</br>
+        <br>1. 2 buah alpukat, buang biji, kupas\n</br>
+        <br>2. 2 buah pir hijau, belah 2, buang biji\n</br>
+        <br>3. 2 buah apel granny smith, buang biji\n</br>
+        <br>4. 2 buah kiwi, kupas, belah 2\n</br>
+        <br>5. 1 buah timun jepang, serut tipis panjang\n</br>
+        <br>6. 30 g micro greens, cuci bersih\n</br>
+        <br>7. 50 g baby spinach, cuci bersih\n</br>
+        <br>8. 50 arugula, cuci bersih\n</br>
+        <br>\n</br>
+        <br>Lime Sesame Dressing\n</br>
+        <br>1. 2 sdt air jeruk nipisCek Promo\n</br>
+        <br>2. 1 sdt wijen hitam sangrai\n</br>
+        <br>3. 2 sdm minyak zaitun\n</br>
+        <br>4. 4 sdm madu\n</br>
+        <br>\n</br>
+        <br>Cara Membuat\n</br>
+        <br>1. Iris melintang tipis alpukat, iris juring pir hijau. Iris tipis apel, iris juring kiwi. Sisihkan.\n</br>
+        <br>2. Lime sesame dressing: Masukkan semua bahan dressing ke dalam jar/stoples bertutup rapat. Kocok hingga rata.\n</br>
+        <br>3. Susun buah dan sayur dalam wadah saji, tuangi dengan dressing. Sajikan segera.</br>
+    </string>
+
+    <string name="resep3">
+        <br> Bahan-bahan:\n</br>
+        <br>1. 1 buah alpukat yang sudah dikupas dan dibuang bijinya\n</br>
+        <br>2. 2 sendok makan daun ketumbar atau seledri cincang\n</br>
+        <br>3. Setengah jeruk nipis peras\n</br>
+        <br>4. Setengah sendok teh cabai bubuk (chili flakes)\n</br>
+        <br>5. Garam dan merica\n</br>
+        <br>6. 2 lembar roti\n</br>
+        <br>7. 2 telur (orak-arik, rebus, atau ceplok, sesuai selera).\n</br>
+        <br>\n</br>
+        <br>Cara bikin avocado toast dengan telur:\n</br>
+        <br>1. Panggang 2 roti hingga berwarna keemasan dan renyah\n</br>
+        <br>2. Haluskan alpukat, lalu campur daun ketumbar atau seledri, perasan jeruk nipis, garam dan merica. Oleskan sebanyak setengah di atas roti panggang, lalu letakkan telur yang sudah dimasak.\n</br>
+    </string>
+
+    <string name="resep4">
+        <br>Bahan smoothie:\n</br>
+        <br>Frozen mangos + frozen bananas + kacang almond + pok coy + air kelapa muda (secukupnya buat nge-blend pok choy).\n</br>
+        <br>\n</br>
+        <br>Bahan topping (optional, sesuai selera hati):\n</br>
+        <br>Irisan apel merah + dried cranberries + goji berries + chia seed + almond.\n</br>
+        <br>\n</br>
+        <br>Cara membuat:\n</br>
+        <br>1. Masukkan irisan pok coy + air kelapa ke blender, proses sampe pok coy halus.\n</br>
+        <br>2. Tambahkan almond ke blender, proses sampe halus.\n</br>
+        <br>3. Tambahkan pisang dan mangga beku ke blender, proses sampe halus.\n</br>
+        <br>4. Pindahkan ke mangkuk saji lalu tambahkan topping. Siap disantap!\n</br>
+    </string>
+
+    <string name="resep5">
+        <br>Bahan:\n</br>
+        <br>- 2 sdm mentega\n</br>
+        <br>- 100 gram bawang bombai\n</br>
+        <br>- 500 gram kacang polong\n</br>
+        <br>- 1 liter air kaldu daging\n</br>
+        <br>- 100 ml krim kental\n</br>
+        <br>- 1 sdt lada\n</br>
+        <br>- 1 sdt garam\n</br>
+        <br>- 2 lembar daun salam\n</br>
+        <br>- 200 gram daging burger, iris bentuk dadu\n</br>
+        <br>\n</br>
+        <br>Pelengkap:\n</br>
+        <br>- 250 gram roti Prancis, iris tipis serong</br>
+        <br>- 1 sdm mentega\n</br>
+        <br>- 2 siung bawang putih, parut\n</br>
+        <br>- 1 sdt peterseli cincang\n</br>
+        <br>\n</br>
+        <br>Cara membuat:\n</br>
+        <br>1. Campur mentega, bawang putih parut, dan peterseli, lalu aduk rata. Olesi roti Prancis dengan mentega berbumbu tadi, kemudian panggang dalam oven hingga kering. Sisihkan.\n</br>
+        <br>2. Cairkan mentega, tumis bawang bombai sampai harum. Masukkan kacang polong, tambahkan air kaldu, beri lada, garam, dan daun salam, kemudian masak sampai mendidih.\n</br>
+        <br>3. Masukkan kacang polong ke dalam blender, proses sampai halus. Tuang dalam panci, didihkan.\n</br>
+        <br>4. Kecilkan api, lalu tambahkan krim kental dan daging burger. Masak kembali sampai mendidih.\n</br>
+        <br>5. Sajikan sup selagi hangat dengan roti kering.\n</br>
+    </string>
+
+    <string name="artikel1">
+        <br>Sejumlah imbauan telah dikeluarkan pemerintah sejak merebaknya virus corona. Selain menganjurkan cuci tangan secara berkala dengan air dan sabun serta penerapan pola hidup bersih dan sehat, masyarakat juga diminta untuk melakukan pembatasan jarak (social-physical distancing), serta tidak melakukan aktivitas di luar ruang jika tidak benar-benar mendesak. Beberapa perusahaan bahkan sudah menerapkan kebijakan agar karyawannya bisa bekerja di rumah atau work from home (WFH).\n</br>
+        <br>\n</br>
+        <br>Selama tinggal di rumah, baik itu sambil bekerja ataupun melakukan kegiatan lainnya, bukan berarti abai terhadap kesehatan. Menjaga kondisi tubuh dan menerapkan langkah pencegahan agar sistem imun terus terjaga tetap harus dilakukan. Berikut adalah beberapa cara yang bisa Anda praktikkan untuk menghindari diri dari serangan virus dan bakteri selama berada di rumah.\n</br>
+        <br>1. Istirahat dan minum air putih yang cukup.\n</br>
+        <br>Memiliki waktu istirahat yang cukup. Sangat penting untuk mempertahankan rutinitas tidur yang teratur agar hari-hari tetap berjalan sesuai pola normal. Pastikan Anda tidak begadang karena dapat berakibat buruk pada kesehatan Anda. Selain cukup istirahat, pastikan diri Anda selalu terhidrasi dengan baik lewat konsumsi air putih secara teratur dalam jumlah yang cukup.\n</br>
+        <br>2. Makan sehat dan konsumsi vitamin.\n</br>
+        <br>Banyak yang mengatakan bahwa tinggal di rumah selama pandemi COVID-19 adalah momen baik bagi tubuh untuk memperoleh gizi seimbang. Atur menu makanan Anda dan keluarga agar tetap memenuhi unsur-unsur zat gizi yang lengkap dalam jumlah yang sesuai, tidak lebih dan tidak kurang.
+    Anda dapat menerapkan konsep “Piring Makanku” yang memenuhi kaidah gizi seimbang sebagai berikut:\n</br>
+        <br>- Setengah porsi piring makan berupa sayur dan buah beraneka jenis dan warna.\n</br>
+        <br>- Seperempat porsi piring makan diisi protein, baik hewani (telur/ayam/ikan/daging) maupun nabati (kacang-kacangan).\n</br>
+        <br>- Seperempat porsi piring makan diisi karbohidrat kompleks (beras/biji-bijian).\n</br>
+        <br>- Lengkapi dengan minyak sehat (zaitun/kedelai/jagung/kanola). Hindari minyak yang mengandung lemak jenuh atau kolesterol tinggi.\n</br>
+        <br>- Konsumsi cukup air putih. Batasi konsumsi susu hingga 2 gelas per hari, jus sekitar satu gelas per hari, dan hindari minuman dengan kandungan gula tinggi.\n</br>
+        <br> 3. Menjaga higienitas.\n</br>
+        <br>Walaupun berada di dalam rumah untuk waktu yang cukup lama, Anda tetap harus memprioritaskan kebersihan diri dan lingkungan sekitar. Pastikan mencuci tangan dengan sabun dan air mengalir selama minimal 20 detik secara berkala, seperti sebelum dan setelah makan, setelah dari toilet, setelah beraktivitas, dan jika tangan kotor. Jika Anda batuk atau bersin, tutupi hidup dan mulut Anda dengan tisu. Setelahnya, segera buang tisu ke tempat sampah dan mencuci tangan hingga bersih.\n</br>
+        <br>Kebersihan rumah juga harus dijaga. Bersihkan tempat-tempat yang memungkinkan kuman bersarang, seperti sela-sela lemari, belakang hiasan dinding, dan bagian dalam gorden. Bagi Anda yang memiliki area bekerja di rumah, jaga kebersihan lingkungan kerja seperti meja dan laptop secara berkala.\n</br>
+        <br>Selain menjaga kesehatan dan kebugaran fisik, disarankan juga untuk memperhatikan kesehatan mental agar tetap dapat tenang dan berpikiran positif selama menghadapi pandemi COVID-19. Selektif terhadap informasi yang didapat dan pastikan hanya menerima dari sumber yang akurat dan dapat dipercaya. Berkomunikasilah selalu dengan keluarga dan sahabat untuk menanyakan kabar, memberikan dukungan, atau melakukan kegiatan bersama lewat video call. Mari tetap sehat dan semangat!\n</br>
+    </string>
+
+    <string name="artikel2">
+        <br>Beberapa pilihan makanan sehat yang baik untuk dikonsumsi antara lain adalah:\n</br>
+        <br>1. Sayuran hijau\n</br>
+        <br>Sayuran hijau menempati urutan pertama dalam jenis makanan sehat karena mengandung banyak nutrisi penting, seperti serat, vitamin A, vitamin C, vitamin K, magnesium, kalsium, zat besi, folat, dan kalium, yang sangat baik untuk kesehatan.
+
+            Selain itu, sayuran hijau juga kaya akan antioksidan yang dapat melindungi tubuh dari kerusakan akibat radikal bebas. Pilihan sayuran hijau juga beragam, mulai dari sawi hijau, brokoli, kangkung, selada, hingga bayam. Sayuran hijau juga dapat diolah dengan berbagai macam cara, mulai dari direbus, ditumis, hingga dikukus.
+
+            Untuk mempertahankan warna sayuran hijau tetap menarik, coba masak sayuran hijau menggunakan air mineral. Kandungan mineral di dalamnya, seperti sodium bikarbonat dan magnesium hidroksida, dapat mempertahankan warna hijau alami daun.\n</br>
+        <br>\n</br>
+        <br>2. Buah-buahan\n</br>
+        <br>Selain sayur, buah juga sangat penting dikonsumsi karena mengandung banyak vitamin. Beberapa buah yang populer karena kekayaan nutrisinya adalah:\n</br>
+        <br>-Apel (serat, vitamin C, dan antioksidan)\n
+            -Jeruk (vitamin C)\n
+            -Pisang (kalium)\n
+            -Alpukat (lemak sehat, kalium, dan vitamin C)\n
+            -Beri-berian, seperti blueberry dan strawberry (rendah kalori namun kaya akan antioksidan dan serat)\n</br>
+        <br>\n</br>
+        <br>3. Daging dan telur\n</br>
+        <br>Daging merupakan salah satu makanan sehat karena kaya akan nutrisi, terlebih lagi daging sapi tanpa lemak. Daging jenis ini mengandung protein dan zat besi paling tinggi dibandingkan dengan daging jenis lainnya.
+
+            Di samping daging, telur juga termasuk ke dalam makanan sehat. Selain tinggi protein, telur juga mengandung nutrisi lengkap, mulai dari vitamin, mineral, lemak tak jenuh, hingga zat antioksidan.\n</br>
+        <br>\n</br>
+        <br>4. Kacang-kacangan dan biji-bijian\n</br>
+        <br>Makanan sehat yang sarat akan nutrisi berikutnya adalah kacang-kacangan dan biji-bijian. Contohnya adalah kacang tanah, kacang mete, kacang almond, chia seed, biji labu, dan biji wijen.
+
+            Kacang-kacangan dan biji-bijian tersebut tidak hanya mengandung protein dan serat yang tinggi, tetapi juga kaya akan vitamin dan mineral, seperti magnesium dan vitamin E.\n</br>
+        <br>\n</br>
+        <br>5. Ikan dan makanan laut lainnya\n</br>
+        <br>Makanan laut merupakan pilihan makanan sehat yang kaya akan asam lemak omega-3 dan yodium. Penelitian menunjukkan bahwa orang yang sering makan ikan laut cenderung lebih panjang umur dan memiliki risiko lebih rendah terhadap banyak penyakit, termasuk penyakit jantung.\n</br>
+        <br>6. Susu\n</br>
+        <br>Susu banyak mengandung vitamin, mineral, protein hewani berkualitas, dan lemak sehat. Selain itu, susu merupakan salah satu sumber kalsium terbaik. Untuk memproleh nutrisi yang terdapat pada susu, Anda dapat mengonsumsinya secara langsung atau mengonsumsi produk olahannya, seperti keju dan yoghurt.\n</br>
+    </string>
+
+
+    <string name="artikel3">
+        <br>Diet adalah istilah yang kita kenal terkait dengan usaha untuk menurunkan berat badan. Beberapa nasihat atau saran yang sering kita dengar seperti “jangan makan malam kalau mau kurus”. Benarkah mitos tersebut??
+            Berikut adalah beberapa fakta dari mitos yang telah didengar:\n</br>
+        <br>\n</br>
+        <br>Mengurangi karbohidrat dapat membantu menurunkan berat badan\n</br>
+        <br>Fakta: Karbohidrat memiliki dua macam jenis yaitu sederhana dan kompleks. Karbohidrat yang sederhana umumnya terdapat dalam permen dan kue. Karbohidrat yang kompleks umumnya terdapat roti gandum, kacang-kacangan, dan buah yang mengandung banyak vitamin, mineral, dan serat. Tidak semua karbohidrat perlu dikurangi, karbohidrat kompleks dapat tetap dikonsumsi atau menjadi menu sehat.Tidak semua karbohidrat perlu dikurangi, karbohidrat kompleks dapat tetap dikonsumsi atau menjadi menu sehat.\n</br>
+        <br>\n</br>
+        <br>Makanan yang memiliki label tidak mengandung lemak dapat dikonsumsi sepuasnya\n</br>
+        <br>Fakta: Banyak makanan rendah lemak atau tanpa lemak umumnya memiliki kandungan gula, pati, atau garam. Sehingga kemungkinan mengandung kalori yang tinggi. Periksa label nutrisi untuk melihat jumlah kalori yang terkandung dalam makanan.\n</br>
+        <br>\n</br>
+        <br>Sarapan dapat membantu menurunkan berat badan\n</br>
+        <br>Fakta: Betul! Mengkonsumsi sarapan yang sehat dapat membantu mengelola kelaparan dan membantu untuk mencegah mengkonsumsi camilan.\n</br>
+        <br>\n</br>
+        <br>Makan di malam hari akan membuat tubuh mudah gemuk\n</br>
+        <br>Fakta: Orang yang makan pada malam hari memang cenderung mengalami peningkatan berat badan. Salah satu penyebabnya adalah pemilihan jenis makanannya. Mengkonsumsi makanan yang mengandung tinggi kalori pada malam hari dapat meningkatkan berat badan. Jika lapar pada malam hari, pilihlah makanan seperti yogurt rendah lemak atau buah-buahan.\n</br>
+    </string>
+
 </resources>
+
+
+
+
+
+
+
+
+
+
+
+
